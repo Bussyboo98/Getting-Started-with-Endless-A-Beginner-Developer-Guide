@@ -112,7 +112,7 @@ This beginner-friendly script and guide provide several key benefits:
   - Transactions  
 - **Safe and Beginner-Friendly:** No advanced Fullnode API calls are required, making it perfect for first-time interactions with the Endless blockchain.  
 
-> ⚠️ Note: Fetching the **real native EDS balance** requires advanced Fullnode API calls and is beyond the scope of this beginner guide.
+> ⚠️ Note: Balance fetched from Fullnode, tokens/NFTs/transactions via Indexer API.
 
 ## Next Steps / Notes
 
