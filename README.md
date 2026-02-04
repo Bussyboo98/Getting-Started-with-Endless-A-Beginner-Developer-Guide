@@ -98,7 +98,8 @@ Create a file called checkBalance.js
 Run the script:
 node checkStatus.js
 
-<img width="459" height="101" alt="image" src="https://github.com/user-attachments/assets/77225eee-6c5c-422d-9dad-f1d417120b24" />
+<img width="514" height="98" alt="image" src="https://github.com/user-attachments/assets/dac14652-fbbd-44e5-87ed-47ee387b33da" />
+
 
 
 ## Option 2: Python Environment Setup
@@ -115,8 +116,7 @@ Follow these steps to set up your Python environment for interacting with the En
 mkdir endless-beginner-python
 cd endless-beginner-python
 
-
-<img width="581" height="122" alt="image" src="https://github.com/user-attachments/assets/a542a571-68ab-4e9d-9043-dd47749b52a4" />
+<img width="463" height="107" alt="image" src="https://github.com/user-attachments/assets/df00b595-52ce-4a63-ab44-d6949be2a04c" />
 
 
 This beginner-friendly script and guide provide several key benefits:
