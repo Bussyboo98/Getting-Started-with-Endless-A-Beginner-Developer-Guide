@@ -29,7 +29,7 @@ Before building on Endless, set up your development environment.
 4. Clone the starter repo:
 
 
-git clone https://github.com/YOUR_USERNAME/getting-started-with-endless.git
+git clone https://github.com/Bussyboo98/Getting-Started-with-Endless-A-Beginner-Developer-Guide.git
 cd getting-started-with-endless
 npm install
 
@@ -43,7 +43,7 @@ Install required Python package:
 pip install web3
 Clone the starter repo (same as JS):
 
-git clone https://github.com/YOUR_USERNAME/getting-started-with-endless.git
+git clone https://github.com/Bussyboo98/Getting-Started-with-Endless-A-Beginner-Developer-Guide.git
 cd getting-started-with-endless
 
 
@@ -63,8 +63,20 @@ To interact with the Endless network, you need an **Endless account and wallet**
    - Check balances  
    - Send transactions  
    - Interact with smart contracts
+  
 
-   ![alt text](<Screenshot 2026-02-04 134116.png>) ![alt text](<Screenshot 2026-02-04 134036.png>) ![alt text](<Screenshot 2026-02-04 134024.png>) ![alt text](<Screenshot 2026-02-04 134009.png>) ![alt text](<Screenshot 2026-02-04 133929.png>)
+<img width="217" height="376" alt="Screenshot 2026-02-04 133929" src="https://github.com/user-attachments/assets/4a37083d-7247-4c32-9506-a856fce7b771" />
+
+<img width="196" height="353" alt="Screenshot 2026-02-04 134009" src="https://github.com/user-attachments/assets/8d6c0054-42cb-46f9-981c-f633ef9dda07" />
+
+<img width="218" height="365" alt="Screenshot 2026-02-04 134024" src="https://github.com/user-attachments/assets/2c0e2285-12de-41ed-aa3f-c1d635d040c8" />
+
+<img width="222" height="370" alt="Screenshot 2026-02-04 134036" src="https://github.com/user-attachments/assets/a11ba118-9473-4de3-aa3c-6ef7c56d167e" />
+
+
+<img width="220" height="317" alt="Screenshot 2026-02-04 134116" src="https://github.com/user-attachments/assets/e0d7c37c-22f0-4cda-8392-69b36705c3ee" />
+
+ 
 5. (Optional) Refer to the [official wallet tutorial](https://docs.endless.link/endless-wallet) for step-by-step screenshots and guidance.
 
 
@@ -84,7 +96,10 @@ npm install ethers
 Create a file called checkBalance.js 
 
 Run the script:
-node checkBalance.js
+node checkStatus.js
+
+<img width="459" height="101" alt="image" src="https://github.com/user-attachments/assets/77225eee-6c5c-422d-9dad-f1d417120b24" />
+
 
 ## Option 2: Python Environment Setup
 
@@ -99,6 +114,9 @@ Follow these steps to set up your Python environment for interacting with the En
 
 mkdir endless-beginner-python
 cd endless-beginner-python
+
+
+<img width="581" height="122" alt="image" src="https://github.com/user-attachments/assets/a542a571-68ab-4e9d-9043-dd47749b52a4" />
 
 
 This beginner-friendly script and guide provide several key benefits:
